@@ -1,4 +1,4 @@
-# Gradie Sign up page
+# Order summary component
 
 This is a Challenge accepted from [frontendmento.io](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). It is an order summary component designed using Tailwind css.
 
