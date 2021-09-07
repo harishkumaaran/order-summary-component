@@ -8,5 +8,6 @@
         background-repeat: no-repeat;
         background-size: 100% 50%;
         @apply bg-blue-100;
+        zoom: 100%;
     }
 }
